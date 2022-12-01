@@ -1,0 +1,8 @@
+h1 {
+    padding: 50px 0;
+    color: red;
+    text-align: center;
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background: url(img/101.gif) no-repeat center center / cover;
+}
